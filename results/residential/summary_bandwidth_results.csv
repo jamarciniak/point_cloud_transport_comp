@@ -1,0 +1,9 @@
+Rosbag,Compression Type,Method,Average Bandwidth [Mb/s],Standard Deviation
+residential_2011_09_26_bag,draco,Per Second,37.84990242553192,8.922721831792458
+residential_2011_09_26_bag,draco,Per Message,30.70641133400026,4.8253434284053425
+residential_2011_09_26_bag,raw,Per Second,73.00056114917128,20.408229281151026
+residential_2011_09_26_bag,raw,Per Message,59.20632377930132,12.541700128714288
+residential_2011_09_26_bag,zlib,Per Message,20.886510805053025,2.8535904715569993
+residential_2011_09_26_bag,zlib,Per Second,25.77165516230366,5.935232590118026
+residential_2011_09_26_bag,zstd,Per Message,20.040232520568452,3.2191991738210897
+residential_2011_09_26_bag,zstd,Per Second,24.99674924731183,6.054960101119896

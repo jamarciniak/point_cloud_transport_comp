@@ -1,0 +1,12 @@
+/build
+/data
+/install
+/log
+/old_stuff
+/results_old
+/rosbags
+results.zip
+src/kitti_to_ros2bag
+src/point_cloud_transport
+src/point_cloud_transport_plugins
+src/point_cloud_transport_tutorial
